@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\Transportes\Transportes\bin\Debug\Transportes.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\Transportes\Transportes\bin\Debug\Transportes.exe
+c:\users\pc\documents\visual studio 2015\Projects\Transportes\Transportes\bin\Debug\Transportes.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Transportes\Transportes\obj\Debug\Transportes.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\Transportes\Transportes\obj\Debug\Transportes.exe
+c:\users\pc\documents\visual studio 2015\Projects\Transportes\Transportes\obj\Debug\Transportes.pdb
