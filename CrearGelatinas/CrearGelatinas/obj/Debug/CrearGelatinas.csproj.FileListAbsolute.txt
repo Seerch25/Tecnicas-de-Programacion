@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\CrearGelatinas\CrearGelatinas\bin\Debug\CrearGelatinas.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\CrearGelatinas\CrearGelatinas\obj\Debug\CrearGelatinas.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\CrearGelatinas\CrearGelatinas\bin\Debug\CrearGelatinas.exe
+c:\users\pc\documents\visual studio 2015\Projects\CrearGelatinas\CrearGelatinas\bin\Debug\CrearGelatinas.pdb
+c:\users\pc\documents\visual studio 2015\Projects\CrearGelatinas\CrearGelatinas\obj\Debug\CrearGelatinas.exe
+c:\users\pc\documents\visual studio 2015\Projects\CrearGelatinas\CrearGelatinas\obj\Debug\CrearGelatinas.pdb
