@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\SobreCargaOperadores\SobreCargaOperadores\bin\Debug\SobreCargaOperadores.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\SobreCargaOperadores\SobreCargaOperadores\bin\Debug\SobreCargaOperadores.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\SobreCargaOperadores\SobreCargaOperadores\bin\Debug\SobreCargaOperadores.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\SobreCargaOperadores\SobreCargaOperadores\obj\Debug\SobreCargaOperadores.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\SobreCargaOperadores\SobreCargaOperadores\obj\Debug\SobreCargaOperadores.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\SobreCargaOperadores\SobreCargaOperadores\obj\Debug\SobreCargaOperadores.pdb
