@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ArreglosObjetos\ArreglosObjetos\bin\Debug\ArreglosObjetos.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ArreglosObjetos\ArreglosObjetos\bin\Debug\ArreglosObjetos.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ArreglosObjetos\ArreglosObjetos\bin\Debug\ArreglosObjetos.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ArreglosObjetos\ArreglosObjetos\obj\Debug\ArreglosObjetos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ArreglosObjetos\ArreglosObjetos\obj\Debug\ArreglosObjetos.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ArreglosObjetos\ArreglosObjetos\obj\Debug\ArreglosObjetos.pdb

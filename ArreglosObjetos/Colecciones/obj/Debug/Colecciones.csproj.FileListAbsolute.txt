@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ArreglosObjetos\Colecciones\bin\Debug\Colecciones.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ArreglosObjetos\Colecciones\bin\Debug\Colecciones.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ArreglosObjetos\Colecciones\bin\Debug\Colecciones.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ArreglosObjetos\Colecciones\obj\Debug\Colecciones.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ArreglosObjetos\Colecciones\obj\Debug\Colecciones.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ArreglosObjetos\Colecciones\obj\Debug\Colecciones.pdb
