@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Interfaces\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
