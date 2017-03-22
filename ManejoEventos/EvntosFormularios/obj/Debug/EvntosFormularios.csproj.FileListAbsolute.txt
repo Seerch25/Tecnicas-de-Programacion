@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\EvntosFormularios\bin\Debug\EvntosFormularios.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\EvntosFormularios\bin\Debug\EvntosFormularios.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\EvntosFormularios\bin\Debug\EvntosFormularios.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\EvntosFormularios\obj\Debug\EvntosFormularios.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\EvntosFormularios\obj\Debug\EvntosFormularios.Form1.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\EvntosFormularios\obj\Debug\EvntosFormularios.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\EvntosFormularios\obj\Debug\EvntosFormularios.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\EvntosFormularios\obj\Debug\EvntosFormularios.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\EvntosFormularios\obj\Debug\EvntosFormularios.pdb

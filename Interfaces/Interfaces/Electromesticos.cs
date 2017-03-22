@@ -2,7 +2,7 @@
 
 namespace Interfaces
 {
-    abstract class Electrodomesticos
+    public abstract class Electrodomesticos
     {
         private string marca;
 

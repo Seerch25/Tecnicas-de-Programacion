@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\ManejoEventos\bin\Debug\ManejoEventos.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\ManejoEventos\bin\Debug\ManejoEventos.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\ManejoEventos\bin\Debug\ManejoEventos.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\ManejoEventos\obj\Debug\ManejoEventos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\ManejoEventos\obj\Debug\ManejoEventos.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejoEventos\ManejoEventos\obj\Debug\ManejoEventos.pdb
