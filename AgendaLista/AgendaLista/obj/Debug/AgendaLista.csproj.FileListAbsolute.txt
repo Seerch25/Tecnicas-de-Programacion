@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\AgendaLista\bin\Debug\AgendaLista.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\AgendaLista\bin\Debug\AgendaLista.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\AgendaLista\bin\Debug\AgendaLista.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\AgendaLista\obj\Debug\AgendaLista.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\AgendaLista\obj\Debug\AgendaLista.Form1.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\AgendaLista\obj\Debug\AgendaLista.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\AgendaLista\obj\Debug\AgendaLista.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\AgendaLista\obj\Debug\AgendaLista.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\AgendaLista\obj\Debug\AgendaLista.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\AgendaLista\bin\Debug\EstructurasAgenda.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\AgendaLista\bin\Debug\EstructurasAgenda.pdb

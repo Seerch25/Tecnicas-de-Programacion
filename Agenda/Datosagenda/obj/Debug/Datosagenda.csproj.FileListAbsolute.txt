@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Datosagenda\bin\Debug\Datosagenda.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Datosagenda\bin\Debug\Datosagenda.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Datosagenda\obj\Debug\Datosagenda.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Datosagenda\obj\Debug\Datosagenda.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Datosagenda\obj\Debug\Datosagenda.csprojResolveAssemblyReference.cache

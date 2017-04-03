@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Agenda\bin\Debug\Datosagenda.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Agenda\bin\Debug\Datosagenda.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Agenda\bin\Debug\Listas.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Agenda\bin\Debug\Listas.pdb

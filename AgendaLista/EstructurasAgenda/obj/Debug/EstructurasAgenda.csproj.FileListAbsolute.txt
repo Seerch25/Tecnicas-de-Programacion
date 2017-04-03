@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\EstructurasAgenda\bin\Debug\EstructurasAgenda.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\EstructurasAgenda\bin\Debug\EstructurasAgenda.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\EstructurasAgenda\obj\Debug\EstructurasAgenda.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\EstructurasAgenda\obj\Debug\EstructurasAgenda.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\AgendaLista\EstructurasAgenda\obj\Debug\EstructurasAgenda.pdb

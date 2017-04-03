@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Listas\bin\Debug\Listas.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Listas\bin\Debug\Listas.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Listas\obj\Debug\Listas.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Listas\obj\Debug\Listas.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Agenda\Listas\obj\Debug\Listas.pdb

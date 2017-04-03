@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Cambio de color\Cambio de color\bin\Debug\Cambio de color.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Cambio de color\Cambio de color\bin\Debug\Cambio de color.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Cambio de color\Cambio de color\bin\Debug\Cambio de color.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Cambio de color\Cambio de color\obj\Debug\Cambio de color.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Cambio de color\Cambio de color\obj\Debug\Cambio de color.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\Cambio de color\Cambio de color\obj\Debug\Cambio de color.pdb
