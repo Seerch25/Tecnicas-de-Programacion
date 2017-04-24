@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoBusqueda\bin\Debug\OrdenamientoBusqueda.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoBusqueda\bin\Debug\OrdenamientoBusqueda.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoBusqueda\obj\Debug\OrdenamientoBusqueda.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoBusqueda\obj\Debug\OrdenamientoBusqueda.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoBusqueda\obj\Debug\OrdenamientoBusqueda.pdb

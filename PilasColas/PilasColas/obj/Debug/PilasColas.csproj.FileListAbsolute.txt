@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\PilasColas\PilasColas\bin\Debug\PilasColas.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\PilasColas\PilasColas\bin\Debug\PilasColas.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\PilasColas\PilasColas\bin\Debug\PilasColas.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\PilasColas\PilasColas\obj\Debug\PilasColas.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\PilasColas\PilasColas\obj\Debug\PilasColas.Form1.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\PilasColas\PilasColas\obj\Debug\PilasColas.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\PilasColas\PilasColas\obj\Debug\PilasColas.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\PilasColas\PilasColas\obj\Debug\PilasColas.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\PilasColas\PilasColas\obj\Debug\PilasColas.pdb

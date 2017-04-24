@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\Colas\bin\Debug\Colas.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\Colas\bin\Debug\Colas.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\Colas\obj\Debug\Colas.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\Colas\obj\Debug\Colas.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\Colas\obj\Debug\Colas.pdb

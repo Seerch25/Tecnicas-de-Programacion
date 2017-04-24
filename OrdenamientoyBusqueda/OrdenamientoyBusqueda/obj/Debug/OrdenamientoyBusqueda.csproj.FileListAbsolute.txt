@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoyBusqueda\bin\Debug\OrdenamientoyBusqueda.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoyBusqueda\bin\Debug\OrdenamientoyBusqueda.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoyBusqueda\bin\Debug\OrdenamientoyBusqueda.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoyBusqueda\obj\Debug\OrdenamientoyBusqueda.Form1.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoyBusqueda\obj\Debug\OrdenamientoyBusqueda.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoyBusqueda\obj\Debug\OrdenamientoyBusqueda.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoyBusqueda\obj\Debug\OrdenamientoyBusqueda.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoyBusqueda\obj\Debug\OrdenamientoyBusqueda.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoyBusqueda\bin\Debug\OrdenamientoBusqueda.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoyBusqueda\bin\Debug\OrdenamientoBusqueda.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\OrdenamientoyBusqueda\OrdenamientoyBusqueda\obj\Debug\OrdenamientoyBusqueda.csprojResolveAssemblyReference.cache

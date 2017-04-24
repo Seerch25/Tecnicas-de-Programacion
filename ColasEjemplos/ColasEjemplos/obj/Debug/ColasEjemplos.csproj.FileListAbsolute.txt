@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\ColasEjemplos\bin\Debug\ColasEjemplos.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\ColasEjemplos\bin\Debug\ColasEjemplos.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\ColasEjemplos\bin\Debug\ColasEjemplos.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\ColasEjemplos\obj\Debug\ColasEjemplos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\ColasEjemplos\obj\Debug\ColasEjemplos.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\ColasEjemplos\obj\Debug\ColasEjemplos.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\ColasEjemplos\obj\Debug\ColasEjemplos.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\ColasEjemplos\obj\Debug\ColasEjemplos.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\ColasEjemplos\bin\Debug\Colas.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\ColasEjemplos\bin\Debug\Colas.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColasEjemplos\ColasEjemplos\obj\Debug\ColasEjemplos.Form1.resources

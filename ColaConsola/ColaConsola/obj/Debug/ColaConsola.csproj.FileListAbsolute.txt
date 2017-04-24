@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColaConsola\ColaConsola\bin\Debug\ColaConsola.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColaConsola\ColaConsola\bin\Debug\ColaConsola.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColaConsola\ColaConsola\bin\Debug\ColaConsola.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColaConsola\ColaConsola\obj\Debug\ColaConsola.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColaConsola\ColaConsola\obj\Debug\ColaConsola.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ColaConsola\ColaConsola\obj\Debug\ColaConsola.pdb

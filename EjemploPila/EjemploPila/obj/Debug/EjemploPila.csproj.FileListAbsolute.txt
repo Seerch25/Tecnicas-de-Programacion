@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\EjemploPila\EjemploPila\bin\Debug\EjemploPila.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\EjemploPila\EjemploPila\bin\Debug\EjemploPila.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\EjemploPila\EjemploPila\bin\Debug\EjemploPila.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\EjemploPila\EjemploPila\obj\Debug\EjemploPila.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\EjemploPila\EjemploPila\obj\Debug\EjemploPila.Form1.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\EjemploPila\EjemploPila\obj\Debug\EjemploPila.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\EjemploPila\EjemploPila\obj\Debug\EjemploPila.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\EjemploPila\EjemploPila\obj\Debug\EjemploPila.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\EjemploPila\EjemploPila\obj\Debug\EjemploPila.pdb
