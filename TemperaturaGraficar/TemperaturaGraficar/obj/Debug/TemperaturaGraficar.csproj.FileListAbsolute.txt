@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGraficar\TemperaturaGraficar\bin\Debug\TemperaturaGraficar.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGraficar\TemperaturaGraficar\bin\Debug\TemperaturaGraficar.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGraficar\TemperaturaGraficar\bin\Debug\TemperaturaGraficar.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGraficar\TemperaturaGraficar\obj\Debug\TemperaturaGraficar.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGraficar\TemperaturaGraficar\obj\Debug\TemperaturaGraficar.Form1.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGraficar\TemperaturaGraficar\obj\Debug\TemperaturaGraficar.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGraficar\TemperaturaGraficar\obj\Debug\TemperaturaGraficar.Valores.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGraficar\TemperaturaGraficar\obj\Debug\TemperaturaGraficar.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGraficar\TemperaturaGraficar\obj\Debug\TemperaturaGraficar.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGraficar\TemperaturaGraficar\obj\Debug\TemperaturaGraficar.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGraficar\TemperaturaGraficar\obj\Debug\TemperaturaGraficar.PruebaConexion.resources

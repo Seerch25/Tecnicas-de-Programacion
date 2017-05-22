@@ -1,0 +1,12 @@
+Hola
+Este es mi primer documento escrito con mi programa
+El programa con el que estoy escribiendo
+es parte de un proyecto llamado ManejodeArchivos
+Espero visualizar mi información al terminar
+de escribir.
+Estas 
+son mis nuevas líneas
+que agrego a mi archivo
+Espero nuevamente
+que aparezcan
+FIN de mi Documento.

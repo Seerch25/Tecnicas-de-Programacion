@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejodeArchivos\ManejodeArchivos\bin\Debug\ManejodeArchivos.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejodeArchivos\ManejodeArchivos\bin\Debug\ManejodeArchivos.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejodeArchivos\ManejodeArchivos\bin\Debug\ManejodeArchivos.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejodeArchivos\ManejodeArchivos\obj\Debug\ManejodeArchivos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejodeArchivos\ManejodeArchivos\obj\Debug\ManejodeArchivos.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\ManejodeArchivos\ManejodeArchivos\obj\Debug\ManejodeArchivos.pdb

@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\LlamadasTelefonicas\LlamadasTelefonicas\bin\Debug\LlamadasTelefonicas.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\LlamadasTelefonicas\LlamadasTelefonicas\bin\Debug\LlamadasTelefonicas.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\LlamadasTelefonicas\LlamadasTelefonicas\bin\Debug\LlamadasTelefonicas.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\LlamadasTelefonicas\LlamadasTelefonicas\obj\Debug\LlamadasTelefonicas.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\LlamadasTelefonicas\LlamadasTelefonicas\obj\Debug\LlamadasTelefonicas.Form1.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\LlamadasTelefonicas\LlamadasTelefonicas\obj\Debug\LlamadasTelefonicas.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\LlamadasTelefonicas\LlamadasTelefonicas\obj\Debug\LlamadasTelefonicas.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\LlamadasTelefonicas\LlamadasTelefonicas\obj\Debug\LlamadasTelefonicas.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\LlamadasTelefonicas\LlamadasTelefonicas\obj\Debug\LlamadasTelefonicas.pdb

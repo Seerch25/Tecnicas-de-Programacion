@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\CalculandoPI\CalculandoPI\bin\Debug\CalculandoPI.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\CalculandoPI\CalculandoPI\bin\Debug\CalculandoPI.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\CalculandoPI\CalculandoPI\bin\Debug\CalculandoPI.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\CalculandoPI\CalculandoPI\obj\Debug\CalculandoPI.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\CalculandoPI\CalculandoPI\obj\Debug\CalculandoPI.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\CalculandoPI\CalculandoPI\obj\Debug\CalculandoPI.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\bin\Debug\TemperaturaGrafica.exe.config
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\obj\Debug\TemperaturaGrafica.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\obj\Debug\TemperaturaGrafica.Form1.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\obj\Debug\TemperaturaGrafica.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\obj\Debug\TemperaturaGrafica.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\bin\Debug\TemperaturaGrafica.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\bin\Debug\TemperaturaGrafica.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\obj\Debug\TemperaturaGrafica.exe
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\obj\Debug\TemperaturaGrafica.pdb
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\obj\Debug\TemperaturaGrafica.PruebaArduino.resources
