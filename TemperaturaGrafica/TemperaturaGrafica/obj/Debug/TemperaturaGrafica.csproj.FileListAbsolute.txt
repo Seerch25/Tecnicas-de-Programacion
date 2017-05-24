@@ -8,3 +8,6 @@ C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\Tempera
 C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\obj\Debug\TemperaturaGrafica.exe
 C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\obj\Debug\TemperaturaGrafica.pdb
 C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\obj\Debug\TemperaturaGrafica.PruebaArduino.resources
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\bin\Debug\itextsharp.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\bin\Debug\itextsharp.pdfa.dll
+C:\Users\PC\Documents\GitHub\Tecnicas-de-Programacion\TemperaturaGrafica\TemperaturaGrafica\bin\Debug\itextsharp.xtra.dll

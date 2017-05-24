@@ -35,7 +35,7 @@
             // ptb_led
             // 
             this.ptb_led.Image = global::TemperaturaGrafica.Properties.Resources.foco;
-            this.ptb_led.Location = new System.Drawing.Point(80, 37);
+            this.ptb_led.Location = new System.Drawing.Point(35, 47);
             this.ptb_led.Name = "ptb_led";
             this.ptb_led.Size = new System.Drawing.Size(124, 116);
             this.ptb_led.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -47,7 +47,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(334, 207);
+            this.ClientSize = new System.Drawing.Size(228, 207);
             this.Controls.Add(this.ptb_led);
             this.Name = "PruebaArduino";
             this.Text = "PruebaArduino";
