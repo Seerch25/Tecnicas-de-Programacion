@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\FormularioAgenda\FormularioAgenda\bin\Debug\FormularioAgenda.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\FormularioAgenda\FormularioAgenda\bin\Debug\FormularioAgenda.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\FormularioAgenda\FormularioAgenda\bin\Debug\FormularioAgenda.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\FormularioAgenda\FormularioAgenda\obj\Debug\FormularioAgenda.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\FormularioAgenda\FormularioAgenda\obj\Debug\FormularioAgenda.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\FormularioAgenda\FormularioAgenda\obj\Debug\FormularioAgenda.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\FormularioAgenda\FormularioAgenda\obj\Debug\FormularioAgenda.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\FormularioAgenda\FormularioAgenda\obj\Debug\FormularioAgenda.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\FormularioAgenda\FormularioAgenda\obj\Debug\FormularioAgenda.pdb
