@@ -6,8 +6,36 @@ namespace FormularioAgenda
 {
     public partial class Form1 : Form
     {
+        private Persona[,] persona;
+        private byte indice;
+        private byte indicegrupo;
+        private byte numpersonas;
+
+        public byte Indice
+        {
+            get
+            {
+                return indice;
+            }
+            set
+            {
+                if( value > numpersonas-1)
+                {
+                    indice = 0;
+                }
+                else
+                {
+                    indice = value;
+                }
+            }
+        }
+
+        public byte Indicegrupo { get => indicegrupo; set => indicegrupo = value; }
+
         public Form1()
         {
+            numpersonas = 2;
+            persona = new Persona[numpersonas,2];
             InitializeComponent();
         }
 
@@ -34,18 +62,19 @@ namespace FormularioAgenda
                     string error = "Debes ingresar tu correo";
                     throw new ApplicationException(error);
                 }
-
-                 for( int i =0; i < txtTelefono.Text.Length; i++)
+                if(rdBgrupo1.Checked==true)
                 {
-                    MessageBox.Show(txtTelefono.Text[i].ToString());
+                    persona[Indice++, 0] = new Persona(txtNombre.Text, byte.Parse(txtEdad.Text), txtTelefono.Text, txtCorreo.Text);
                 }
-
-
-
-
-                Persona persona = new Persona(txtNombre.Text, byte.Parse(txtEdad.Text), txtTelefono.Text, txtCorreo.Text);
-
-
+                if(rdBgrupo2.Checked)
+                {
+                    persona[Indice++, 1] = new Persona(txtNombre.Text, byte.Parse(txtEdad.Text), txtTelefono.Text, txtCorreo.Text);
+                }
+                
+                txtNombre.Text = "";
+                txtEdad.Text = "";
+                txtTelefono.Text = "";
+                txtCorreo.Text = "";
 
                 MessageBox.Show("Datos Ingresados");
             }
@@ -64,12 +93,40 @@ namespace FormularioAgenda
             catch
             {
                 MessageBox.Show(" Hubo un error en el código  ");
+            }                    
+        }
+
+        
+
+        
+
+        private void btnSiguiente_Click_1(object sender, EventArgs e)
+        {
+            try
+            {
+                if (rdBgrupo1.Checked)
+                {
+                    txtNombre.Text = persona[Indice, 0].Nombre;
+                    txtEdad.Text = persona[Indice, 0].Edad.ToString();
+                    txtTelefono.Text = persona[Indice, 0].Telefono;
+                    txtCorreo.Text = persona[Indice, 0].Correo;
+                    Indice++;
+                }
+                if (rdBgrupo2.Checked)
+                {
+                    txtNombre.Text = persona[Indice, 1].Nombre;
+                    txtEdad.Text = persona[Indice, 1].Edad.ToString();
+                    txtTelefono.Text = persona[Indice, 1].Telefono;
+                    txtCorreo.Text = persona[Indice, 1].Correo;
+                    Indice++;
+                }
             }
-            
+            catch(NullReferenceException)
+            {
+                MessageBox.Show("No hay datos que mostrar");
+            }
 
 
-
-            
         }
     }
 }

@@ -37,6 +37,9 @@
             this.label4 = new System.Windows.Forms.Label();
             this.txtCorreo = new System.Windows.Forms.TextBox();
             this.btnIngresar = new System.Windows.Forms.Button();
+            this.btnSiguiente = new System.Windows.Forms.Button();
+            this.rdBgrupo2 = new System.Windows.Forms.RadioButton();
+            this.rdBgrupo1 = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // label1
@@ -113,11 +116,46 @@
             this.btnIngresar.UseVisualStyleBackColor = true;
             this.btnIngresar.Click += new System.EventHandler(this.btnIngresar_Click);
             // 
+            // btnSiguiente
+            // 
+            this.btnSiguiente.Location = new System.Drawing.Point(277, 104);
+            this.btnSiguiente.Name = "btnSiguiente";
+            this.btnSiguiente.Size = new System.Drawing.Size(75, 23);
+            this.btnSiguiente.TabIndex = 3;
+            this.btnSiguiente.Text = ">>";
+            this.btnSiguiente.UseVisualStyleBackColor = true;
+            this.btnSiguiente.Click += new System.EventHandler(this.btnSiguiente_Click_1);
+            // 
+            // rdBgrupo2
+            // 
+            this.rdBgrupo2.AutoSize = true;
+            this.rdBgrupo2.Location = new System.Drawing.Point(382, 86);
+            this.rdBgrupo2.Name = "rdBgrupo2";
+            this.rdBgrupo2.Size = new System.Drawing.Size(63, 17);
+            this.rdBgrupo2.TabIndex = 4;
+            this.rdBgrupo2.TabStop = true;
+            this.rdBgrupo2.Text = "Grupo 2";
+            this.rdBgrupo2.UseVisualStyleBackColor = true;
+            // 
+            // rdBgrupo1
+            // 
+            this.rdBgrupo1.AutoSize = true;
+            this.rdBgrupo1.Location = new System.Drawing.Point(382, 63);
+            this.rdBgrupo1.Name = "rdBgrupo1";
+            this.rdBgrupo1.Size = new System.Drawing.Size(63, 17);
+            this.rdBgrupo1.TabIndex = 5;
+            this.rdBgrupo1.TabStop = true;
+            this.rdBgrupo1.Text = "Grupo 1";
+            this.rdBgrupo1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(468, 261);
+            this.Controls.Add(this.rdBgrupo1);
+            this.Controls.Add(this.rdBgrupo2);
+            this.Controls.Add(this.btnSiguiente);
             this.Controls.Add(this.btnIngresar);
             this.Controls.Add(this.txtCorreo);
             this.Controls.Add(this.label4);
@@ -145,6 +183,9 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtCorreo;
         private System.Windows.Forms.Button btnIngresar;
+        private System.Windows.Forms.Button btnSiguiente;
+        private System.Windows.Forms.RadioButton rdBgrupo2;
+        private System.Windows.Forms.RadioButton rdBgrupo1;
     }
 }
 

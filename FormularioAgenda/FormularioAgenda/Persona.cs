@@ -53,12 +53,49 @@ namespace FormularioAgenda
             }
         }
 
+       public string Nombre
+        {
+            get
+            {
+                return nombre;
+            }
+            set
+            {
+
+                nombre = value;
+            }
+        }
+
+        public string Correo
+        {
+            get
+            {
+                return correo;
+            }
+            set
+            {
+                correo = value;
+            }
+        }
+
+        public string Telefono
+        {
+            get
+            {
+                return telefono;
+            }
+            set
+            {
+                telefono = value;
+            }
+        }
+
         public Persona(string nombre, byte edad, string telefono, string correo )
         {
-            this.nombre = nombre;
+            this.Nombre = nombre;
             Edad = edad;
-            this.telefono = telefono;
-            this.correo = correo;
+            this.Telefono = telefono;
+            this.Correo = correo;
         }
 
     }
