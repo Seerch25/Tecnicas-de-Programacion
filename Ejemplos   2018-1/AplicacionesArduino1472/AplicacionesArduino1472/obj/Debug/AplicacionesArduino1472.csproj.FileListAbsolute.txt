@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino1472\AplicacionesArduino1472\obj\Debug\AplicacionesArduino1472.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino1472\AplicacionesArduino1472\obj\Debug\AplicacionesArduino1472.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino1472\AplicacionesArduino1472\obj\Debug\AplicacionesArduino1472.FormSensorTemperatura.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino1472\AplicacionesArduino1472\obj\Debug\AplicacionesArduino1472.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino1472\AplicacionesArduino1472\obj\Debug\AplicacionesArduino1472.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino1472\AplicacionesArduino1472\obj\Debug\AplicacionesArduino1472.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino1472\AplicacionesArduino1472\bin\Debug\AplicacionesArduino1472.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino1472\AplicacionesArduino1472\bin\Debug\AplicacionesArduino1472.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino1472\AplicacionesArduino1472\bin\Debug\AplicacionesArduino1472.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino1472\AplicacionesArduino1472\obj\Debug\AplicacionesArduino1472.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino1472\AplicacionesArduino1472\obj\Debug\AplicacionesArduino1472.pdb

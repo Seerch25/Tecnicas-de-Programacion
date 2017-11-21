@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino0513\AplicacionesArduino0513\bin\Debug\AplicacionesArduino0513.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino0513\AplicacionesArduino0513\bin\Debug\AplicacionesArduino0513.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino0513\AplicacionesArduino0513\bin\Debug\AplicacionesArduino0513.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino0513\AplicacionesArduino0513\obj\Debug\AplicacionesArduino0513.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino0513\AplicacionesArduino0513\obj\Debug\AplicacionesArduino0513.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino0513\AplicacionesArduino0513\obj\Debug\AplicacionesArduino0513.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino0513\AplicacionesArduino0513\obj\Debug\AplicacionesArduino0513.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino0513\AplicacionesArduino0513\obj\Debug\AplicacionesArduino0513.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino0513\AplicacionesArduino0513\obj\Debug\AplicacionesArduino0513.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino0513\AplicacionesArduino0513\obj\Debug\AplicacionesArduino0513.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\AplicacionesArduino0513\AplicacionesArduino0513\obj\Debug\AplicacionesArduino0513.Temperatura.resources
